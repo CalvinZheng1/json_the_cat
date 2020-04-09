@@ -19,3 +19,5 @@ const fetchBreedDescription = function(breedName) {
 };
 
 fetchBreedDescription(breedName);
+
+module.exports = { fetchBreedDescription };
